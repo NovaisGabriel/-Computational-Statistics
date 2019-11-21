@@ -1,0 +1,1 @@
+O notebook em python possui alguns erros e não está rodando para redes com números muito grandes (isto é, acima de 50 nós). Desta forma deve ser utilizado o notebook em julia que está funcionando bem melhor e com um tempo menor de execução.
