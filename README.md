@@ -8,4 +8,5 @@ Esse repositório é composto por:
 <li>1 pasta com os notebooks utlizados (<b>notebooks</b>).</li>
 <li>1 pasta com a apresentação (<b>aprs</b>).</li>
 <li>1 pasta com o relatório final do projeto de replicação (<b>relatorio</b>).</li>
+  <li>1 pasta com as listas do curso (<b>listas</b>). </li>
 </ul>
