@@ -15,7 +15,7 @@
 </ul>
 
 <h4>Trabalho Final</h4>
-<p>O tema do trabalho final escolhido para o curso realizado em 2019, foi a análise Bayesiana de modelos de grafos aleatórios exponenciais com base em dois m´etodos diferentes: O Double Metropolis Hastings e o Noisy Double Metropolis Hastings. Para a elaboração do trabalho foram
+<p>O tema do trabalho final escolhido para o curso realizado em 2019, foi a análise Bayesiana de modelos de grafos aleatórios exponenciais com base em dois métodos diferentes: O Double Metropolis Hastings e o Noisy Double Metropolis Hastings. Para a elaboração do trabalho foram
 utilizados como referências dois artigos principais:</p>
 <ul>
   <li>Bayesian Inference in the Presence of Intractable Normalizing Functions (Jaewoo Park e Murali Haran)</li>
@@ -23,7 +23,7 @@ utilizados como referências dois artigos principais:</p>
 </ul>
 
 <h4>Sobre os Códigos</h4>
-<p> Inicialmente os código foram feitos em Python 3.7, pela demora que estava tendo para executar os códigos, foi necessária uma linguagem mais aprrpriada para simulação, isto é, uma linguagem de mais baixo nível. A linguagem Julia antendeu aos requisitos necessários e conseguiu diminuir o tempo de execução do código em 5 vezes que aquele tempo originalmente feito em Python. Está tudo disponibilizado acima nas pastas.
+<p> Inicialmente os código foram feitos em Python 3.7, pela demora que estava tendo para executar os códigos, foi necessária uma linguagem mais apropriada para simulação, isto é, uma linguagem de mais baixo nível. A linguagem Julia antendeu aos requisitos necessários e conseguiu diminuir o tempo de execução do código em 5 vezes que aquele tempo originalmente feito em Python. Está tudo disponibilizado acima nas pastas.
 
 
 
